@@ -1,0 +1,22 @@
+{
+  "name": "machine-signature",
+  "version": "1.0.0",
+  "description": "Signature of Machine",
+  "main": "index.js",
+  "files": [
+  ],
+  "scripts": {
+    "test": "node machine-signature.js"
+  },
+  "repository": {},
+  "author": "Aliaksei Chapyzhenka",
+  "license": "MIT",
+  "bugs": {},
+  "devDependencies": {
+    "@drom/eslint-config": "0.13.0",
+    "eslint": "8.57.1"
+  },
+  "eslintConfig": {
+    "extends": "@drom/eslint-config/eslint8/node22"
+  }
+}
