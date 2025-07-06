@@ -59,8 +59,7 @@ const main = async () => {
   // https://aditya-sunjava.medium.com/how-windows-detects-virtual-machines-methods-and-techniques-explained-45208b342259
   // https://www.gdatasoftware.com/blog/2020/05/36068-current-use-of-virtual-machine-detection-methods
   // https://stackoverflow.com/questions/154163/detect-virtualized-os-from-an-application
-  
-
+  // https://github.com/systemd/systemd/blob/main/src/detect-virt/detect-virt.c
 
   console.log(res);
 };
