@@ -27,6 +27,7 @@ const main = async () => {
   };
 
   // https://stackoverflow.com/questions/328936/getting-a-unique-id-from-a-unix-like-system
+  // https://open-license-manager.github.io/licensecc/index.html
 
   // Mac OSX
   // https://stackoverflow.com/questions/933460/unique-hardware-id-in-mac-os-x
